@@ -26,8 +26,7 @@ Building
 engine.  To build the game, you will need to install miniSphere, available for
 download here:
 
-[miniSphere on GitHub]
-(https://github.com/fatcerberus/minisphere/releases)
+[miniSphere on GitHub](https://github.com/fatcerberus/minisphere/releases)
 
 Be sure to install the development tools, not just the engine itself.  After
 that's done, build and run the game by entering the following at the command
